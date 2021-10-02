@@ -1,0 +1,46 @@
+#titu{
+    color: #B907DE;
+}
+#sub{
+    color: #B907DE;
+    
+}
+fieldset{
+    border:0;
+}
+#formulario{
+    font-size: 1em;
+    margin-left: 36%;
+    margin-top: 2%;
+    justify-content: center;
+}
+input, select, textarea, button{
+    border-radius: 5px;
+}
+.campo{
+    margin-bottom: iem;
+}
+.campo label{
+    margin-bottom: 0.2em;
+    display: block;
+}
+fieldset .grupo .campo{
+    float: left;
+    margin-right: 1em;
+}
+.campo input [type= "text"] .campo input [type= "email"] .campo select .campo textarea{
+    padding: 0.2em;
+    border: 1px solid #1F14F5;
+    box-shadow: 2px 2px 2px #FA0900;
+    display: block;
+}
+.campo select option{
+    margin-right: 1em;
+}
+#botão{
+    font-size: 1.2em;
+    background-color: #FA0900;
+    border: 0;
+    margin: 3px;
+    padding: 5px;
+}
